@@ -5,3 +5,5 @@
 qqq aaa
 
 削除の確認
+git status
+
